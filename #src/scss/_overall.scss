@@ -1,0 +1,25 @@
+.container {
+  max-width: 1626px;
+  padding: 0px 30px;
+  margin: 0 auto;
+}
+
+.site-container {
+  overflow: hidden;
+}
+
+.flex {
+  display: flex;
+}
+
+.section {
+  height: 100vh;
+  min-height: 600px;
+}
+
+.btn-reset {
+  border: none  ;
+  background-color: transparent;
+  cursor: pointer;
+  padding: 0;
+}
